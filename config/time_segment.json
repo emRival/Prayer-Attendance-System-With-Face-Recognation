@@ -1,0 +1,22 @@
+{
+    "time_segments": [
+        {
+            "id": 1,
+            "name": "Morning",
+            "start": "06:00",
+            "end": "12:00"
+        },
+        {
+            "id": 2,
+            "name": "Afternoon",
+            "start": "12:00",
+            "end": "12:10"
+        },
+        {
+            "id": 3,
+            "name": "Evening",
+            "start": "13:00",
+            "end": "14:00"
+        }
+    ]
+}
